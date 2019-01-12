@@ -13,6 +13,7 @@ function golfScore(par, strokes) {
     score = names[delta + 3];
   }
   return score;
+  
   // Only change code above this line
 }
 
