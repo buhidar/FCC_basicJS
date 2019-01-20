@@ -13,10 +13,11 @@ function golfScore(par, strokes) {
     score = names[delta + 3];
   }
   return score;
-  
+
   // Only change code above this line
 }
 
 // Change these values to test
 
 console.log(golfScore(5, 8));
+console.log(golfScore(3, 2));
